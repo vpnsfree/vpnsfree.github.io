@@ -22,8 +22,8 @@ SurfShark同样提供30天的免费试用，支持无限设备连接。
 快连VPN是一款中国用户最常用的VPN，提供3天的免费试用。
 它的速度非常快，适合日常使用，大家对这款VPN的使用评价一直不错。
 
-## 总体最好的免费VPN
-### [PrivadoVPN](https ://privadovpn.com/getprivadovpn/#a_aid=vpnwide) 
+## 海外最好用的免费VPN
+### [PrivadoVPN](https://privadovpn.com/getprivadovpn/#a_aid=vpnwide) 
 PrivadoVPN是一款相对较新的VPN服务，提供10GB的免费流量。以下是PrivadoVPN的特点：
 
 - **优点**：
